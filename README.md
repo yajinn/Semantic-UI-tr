@@ -1,80 +1,80 @@
 # Semantic [![Build Status](https://travis-ci.org/Semantic-Org/Semantic-UI.png)](https://travis-ci.org/Semantic-Org/Semantic-UI)
-Semantic is a UI Component library implemented using a set of specifications designed around natural language
+Semantic, doğal dille bir dizi özellik kullanılarak tasarlanmış bir UI Bileşen kütüphanesidir.
 
-Semantic UI is under constant development, so **be sure to check out our [release notes](https://github.com/Semantic-Org/Semantic-UI/blob/master/RELEASE%20NOTES.md) for recent changes**.
+Semantic UI sürekli geliştirilme aşamasındadır. **Son değişiklikler için [sürüm notlarımızı](https://github.com/Semantic-Org/Semantic-UI/blob/master/RELEASE%20NOTES.md) kontol ettiğinizden emin olun**.
 
-[![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jlukic&url=https%3A%2F%2Fgithub.com%2Fjlukic%2FSemantic-UI)
+[![Flattr ile Destekle](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jlukic&url=https%3A%2F%2Fgithub.com%2Fjlukic%2FSemantic-UI)
 
-> Community contributed plugins and ports for Wordpress, Angular, Dart, Knockout, Rails, and more can be found on the [Integration page](https://github.com/Semantic-Org/Semantic-UI/wiki/Integration).
+> Wordpress, Angular, Dart, Knockout, Rails ve daha fazlası için topluluk tarafından oluşturulan eklentiler ve portlar [Entegrasyon sayfasında](https://github.com/Semantic-Org/Semantic-UI/wiki/Integration) bulunabilir.
 
-## Translations
+## Çeviriler
 
-##### Right-to-Left (RTL Version)
+##### Soldan Sağa (RTL Sürümü)
 
-Special RTL versions are maintained with the Arabic translation of Semantic.
+Özel RTL sürümleri Semantic'in Arapça çevirisi ile hazırlanır.
 
-* سيمانتك يو آي - الإصدار العربي - [GitHub](https://github.com/Semantic-Org/Semantic-UI-ar) - [Website](http://semantic-ui.me/)
+* Arapça Çeviri - [GitHub](https://github.com/Semantic-Org/Semantic-UI-ar) - [Web sitesi](http://semantic-ui.me/)
 
-##### Additional Translations
-* 中文翻译 Semantic UI - [GitHub](https://github.com/Semantic-Org/Semantic-UI-zh) - [Website](http://zh.semantic-ui.com/)
+##### Ek Çeviriler
+* Çince Çeviri - [GitHub](https://github.com/Semantic-Org/Semantic-UI-zh) - [Web sitesi](http://zh.semantic-ui.com/)
 
-* Tradução em Português - [GitHub](https://github.com/Semantic-Org/Semantic-UI-pt-br)
+* Portekizce Çeviri - [GitHub](https://github.com/Semantic-Org/Semantic-UI-pt-br)
 
-We need people who can contribute to translations of Semantic UI's documentation. 
+Semantic UI belgelerine çevirilerle katkıda bulunabilecek insanlara ihtiyacımız var.
 
-Please [reach out by e-mail](mailto:jack@semantic-ui.com) if you can help.
+Katkıda bulunmak isterseniz lütfen [e-posta ile iletişime](mailto:jack@semantic-ui.com) geçin.
 
-## Getting Started
+## Başlarken
 
-The Semantic library describes many UI elements. In most instances it might be best to build a custom build with only the elements you need.
+Birçok UI elementi Semantic kütüphanesinde anlatılır. Çoğu durumda sadece ihitiyacınız olan elementlerle özel bir yapı oluşturmak en iyi yöntem olabilir.
 
-To download the entire library
+Tüm kütüphaneyi indirmek için
 
     git clone git@github.com:Semantic-Org/Semantic-UI.git
 
-If you prefer to download the whole kit as a zip, it is so conveniently packaged.
+Tüm kiti arşiv olarak indirmek için
 
     http://semantic-ui.com/build/semantic.zip
     
-Semantic is also available from CDN
+Semantic'i aynı zamanda CDN üzerinden kullanabilirsin
 
-* [Hosted on CloudFlare CDN](http://cdnjs.com/libraries/semantic-ui/)
-* [Hosted on BootCDN](http://open.bootcss.com/semantic-ui/) (Chinese)
+* [CloudFlare CDN üzerinde](http://cdnjs.com/libraries/semantic-ui/)
+* [BootCDN üzerinde](http://open.bootcss.com/semantic-ui/) (Çince)
 
-## Learn More
+## Daha Fazlası
 
-* [Introduction to Semantic](http://www.semantic-ui.com/introduction.html)
-* [Semantic Modules](http://www.semantic-ui.com/module.html)
-* [Contributing to Semantic](http://semantic-ui.com/project/contributing.html)
-* [Running Docs/Server Locally](http://semantic-ui.com/project/development)
+* [Semantic'e Giriş](http://www.semantic-ui.com/introduction.html)
+* [Semantic Modülleri](http://www.semantic-ui.com/module.html)
+* [Semantic'e Katkıda Bulunmak](http://semantic-ui.com/project/contributing.html)
+* [Yerel Olarak Döküman/Sunucu Çalıştırmak](http://semantic-ui.com/project/development)
 
-If you want to keep track of development, please [join our google group](https://groups.google.com/forum/?hl=en#!forum/semantic-ui)
+Geliştirme sürecini takip etmek için [google grubumuza katılabilirsin](https://groups.google.com/forum/?hl=en#!forum/semantic-ui)
 
 
-### Bugs and Issues
+### Hatalar ve Sorunlar
 
-> Semantic UI is production ready, but is "pre-release" until build and theming tools are available, and documentation is complete for all components.
+> Semantic UI kullanıma hazırdır, ancak yapı ve tema araçları kullanılabilir olana kadar ön sürümdedir ve dökümantasyon tüm bileşenler için tamamlanmıştır.
 
-Please [share any issues](https://github.com/Semantic-Org/Semantic-UI/issues?state=open) you may have. We need your help to get all the kinks out.
+Yaşadığınız tüm sorunları lütfen [bizimle paylaşın](https://github.com/Semantic-Org/Semantic-UI/issues?state=open). Tüm problemleri çözmek için yardımınıza ihtiyacımız var.
 
-If you are reporting a bug *you must create a test-case*. You can [fork this jsfiddle](http://jsfiddle.net/Vbr9d/42/) to get you started.
+Hata raporlamadan önce *bir test seti oluşturmalısınız*. Başlamak için bu [jsfiddle test setini](http://jsfiddle.net/Vbr9d/42/) fork edebilirsiniz
 
-If you need help, come hang out in `#semantic-ui` on *irc.freenode.net*.  Click here to use [webchat](http://webchat.freenode.net/?randomnick=1&channels=%23semantic-ui&prompt=1&uio=OT10cnVlJjExPTEyMwb9).
+Eğer yardıma ihtiyacınız varsa, *irc.freenode.net* üzerinden `#semantic-ui` kanalına katılabilirsiniz. Web üzerinden katılmak için [buraya tıklayın](http://webchat.freenode.net/?randomnick=1&channels=%23semantic-ui&prompt=1&uio=OT10cnVlJjExPTEyMwb9).
 
-### Browser Support
+### Tarayıcı Desteği
 
-* Last 2 Versions FF, Chrome, IE (aka 10+)
+* FireFox, Chrome, IE (10 ve üzerinden itibaren) son 2 sürümü
 * Safari 6
 * IE 9+ (Browser prefix only)
 * Android 4
 * Blackberry 10
 
-### Reaching Out
+### Dışardan Ulaşım
 
-If you'd like to start a conversation about Semantic feel free to reach out by e-mail [jack@semantic-ui.com](mailto:jack@semantic-ui.com)
+Semantic UI hakkında konuşmak isterseniz e-posta ile iletişime geçmekten çekinmeyin [jack@semantic-ui.com](mailto:jack@semantic-ui.com)
 
 
-### Roadmap
-* [Features Missing for 1.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
-* [Planned Updates for 1.X](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=2&page=1&sort=updated&state=open)
-* [Additional Components Scoped for 2.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
+### Yol Haritası
+* [1.0 İçin Eksik Özellikler](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
+* [1.X İçin Planlanan Güncellemeler](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=2&page=1&sort=updated&state=open)
+* [2.0 İçin Aranan Ek Özellikler](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
