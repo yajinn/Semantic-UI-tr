@@ -36,7 +36,7 @@ Tüm kiti arşiv olarak indirmek için
 
     http://semantic-ui.com/build/semantic.zip
     
-Semantic'i aynı zamanda CDN üzerinden kullanabilirsin
+Semantic'i aynı zamanda CDN üzerinden kullanılabilir
 
 * [CloudFlare CDN üzerinde](http://cdnjs.com/libraries/semantic-ui/)
 * [BootCDN üzerinde](http://open.bootcss.com/semantic-ui/) (Çince)
@@ -53,9 +53,9 @@ Geliştirme sürecini takip etmek için [google grubumuza katılabilirsin](https
 
 ### Hatalar ve Sorunlar
 
-> Semantic UI kullanıma hazırdır, ancak yapı ve tema araçları kullanılabilir olana kadar ön sürümdedir ve dökümantasyon tüm bileşenler için tamamlanmıştır.
+> Semantic UI kullanıma hazırdır, ancak yapı ve tema araçları tamamen kullanılabilir olana kadar ön sürümdedir ve dökümantasyon tüm bileşenler için tamamlanmıştır.
 
-Yaşadığınız tüm sorunları lütfen [bizimle paylaşın](https://github.com/Semantic-Org/Semantic-UI/issues?state=open). Tüm problemleri çözmek için yardımınıza ihtiyacımız var.
+Yaşadığınız tüm sorunları lütfen [bizimle paylaşın](https://github.com/Semantic-Org/Semantic-UI/issues?state=open). Problemleri çözmek için yardımınıza ihtiyacımız var.
 
 Hata raporlamadan önce *bir test seti oluşturmalısınız*. Başlamak için bu [jsfiddle test setini](http://jsfiddle.net/Vbr9d/42/) fork edebilirsiniz
 
