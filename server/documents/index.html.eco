@@ -1,7 +1,7 @@
 ---
 layout : 'default'
 css    : 'index'
-title  : 'Introduction'
+title  : 'Başlangıç'
 type   : 'Semantic'
 ---
 
@@ -16,10 +16,10 @@ type   : 'Semantic'
     <div class="column">
       <div class="introduction">
         <h1 class="ui header">Semantic UI <a class="ui black label" href="https://github.com/semantic-org/Semantic-UI/blob/master/RELEASE%20NOTES.md">0.12.1</a></h1>
-        <h2 class="ui header">UI is the vocabulary of the web.</h2>
-        <p>Semantic empowers designers and developers by creating a language for sharing UI.</p>
-        <a class="ui black large labeled launch icon button"><i class="icon list layout"></i> View UI</a>
-        <a class="ui red large labeled icon button" href="build/semantic.zip"><i class="awesome download cloud icon"></i> Download</a>
+        <h2 class="ui header">UI web terimlerinden biridir.</h2>
+        <p>Semantic, paylaşılan UI ile bir dil oluşturarak tasarımcıları ve geliştiricileri güçlendirir.</p>
+        <a class="ui black large labeled launch icon button"><i class="icon list layout"></i> UI Görüntüle</a>
+        <a class="ui red large labeled icon button" href="build/semantic.zip"><i class="awesome download cloud icon"></i> İndir</a>
       </div>
       <div class="inverted advertisement">
         <% unless 'development' in @getEnvironments(): %>
@@ -35,13 +35,13 @@ type   : 'Semantic'
       <h2 class="ui header">
         <i class="circular emphasized book icon"></i>
         <div class="content">
-          Lose the Hieroglyphics
-          <div class="sub header">Semantic is structured around natural language conventions to make development more intuitive.
+          Anlaşılması Zor Yazılardan Kurtulun
+          <div class="sub header">Semantic, geliştirmeyi daha sezgisel yapmak için doğal dil kuralları çerçevesinde oluşturulmuştur.
           </div>
         </div>
       </h2>
       <div class="ui message">
-        Semantic is tag agnostic meaning you can use <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list" target="_blank">any html tags</a> with UI elements.
+        Semantic etiketleri size farklı geliyor ise UI elementleri ile birlikte <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list" target="_blank">istediğiniz html etiketi</a>ni kullanabilirsiniz.
       </div>
       <div class="ui stackable two column grid">
         <div class="column">
@@ -68,12 +68,12 @@ type   : 'Semantic'
           <a class="ui teal label" href="/collections/menu.html">Semantic</a>
           <div class="code" data-type="html">
           <nav class="ui menu">
-            <h3 class="header item">Title</h3>
-            <a class="active item">Home</a>
-            <a class="item">Link</a>
-            <a class="item">Link</a>
+            <h3 class="header item">Başlık</h3>
+            <a class="active item">Ana Sayfa</a>
+            <a class="item">Bağlantı</a>
+            <a class="item">Bağlantı</a>
             <span class="right floated text item">
-              Signed in as <a href="#">user</a>
+              <a href="#">Kullanıcı</a> olarak giriş yapıldı.
             </span>
           </nav>
           </div>
@@ -82,12 +82,12 @@ type   : 'Semantic'
           <div class="ui black label">Bootstrap</div>
           <div class="code" data-type="html">
           <div class="navbar">
-            <a class="navbar-brand" href="#">Title</a>
+            <a class="navbar-brand" href="#">Başlık</a>
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <p class="navbar-text pull-right">Signed in as <a href="#" class="navbar-link">User</a></p>
+              <li class="active"><a href="#">Ana Sayfa</a></li>
+              <li><a href="#">Bağlantı</a></li>
+              <li><a href="#">Bağlantı</a></li>
+              <p class="navbar-text pull-right"><a href="#" class="navbar-link">Kullanıcı</a> olarak giriş yapıldı.</p>
             </ul>
           </div>
           </div>
@@ -97,7 +97,7 @@ type   : 'Semantic'
           <div class="code" data-type="html">
           <button class="large ui button">
             <i class="heart icon"></i>
-            Like it
+            Beğendin
           </button>
           </div>
         </div>
@@ -106,7 +106,7 @@ type   : 'Semantic'
           <div class="code" data-type="html">
           <button type="button" class="btn btn-primary btn-lg">
             <span class="glyphicon glyphicon-heart"></span>
-            Like
+            Beğen
           </button>
           </div>
         </div>
